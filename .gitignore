@@ -1,1 +1,7 @@
-node_modules
+CSS/
+fonts/
+node_modules/
+
+JS/jquery.js
+JS/materialize.js
+JS/materialize.min.js
